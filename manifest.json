@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "Fairly Good",
+  "version": "0.0.0",
+  "description": "Brighten up your day",
+
+  "permissions": [
+    "chrome://favicon/",
+    "tabs"
+  ],
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  },
+  "web_accessible_resources": [
+    "main.js",
+    "styles.css"
+  ]
+}
