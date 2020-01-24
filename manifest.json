@@ -13,6 +13,12 @@
   },
   "web_accessible_resources": [
     "main.js",
-    "styles.css"
+    "styles.css",
+    "compliments.json",
+    "toilet-paper.svg",
+    "twitch.svg",
+    "github.svg",
+    "instagram.svg",
+    "twitter.svg"
   ]
 }
