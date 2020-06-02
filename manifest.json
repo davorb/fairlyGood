@@ -2,8 +2,11 @@
   "manifest_version": 2,
   "name": "Fairly Good",
   "version": "0.0.2",
-  "description": "Brighten up your day",
-
+  "description": "Brighten up your day by being greeted with a friendly message every time you open up a new tab",
+  "icons": {
+    "48": "icon.png",
+    "96": "icon@2x.png"
+  },
   "permissions": [
     "chrome://favicon/",
     "tabs"
@@ -19,6 +22,8 @@
     "twitch.svg",
     "github.svg",
     "instagram.svg",
-    "twitter.svg"
+    "twitter.svg",
+    "icon@2x.png",
+    "icon.png"
   ]
 }
