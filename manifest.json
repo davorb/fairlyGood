@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Fairly Good",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "description": "Brighten up your day",
 
   "permissions": [
