@@ -1,2 +1,6 @@
 * Icons
   Icons made by Freepik from Flaticon.
+
+* Download
+- [Chrome](https://chrome.google.com/webstore/detail/fairly-good/cpdhilicjaofpiddiddpoijkcidjlhbm)
+- [Firefox](https://j2team.dev/firefox-extension/fairly-good)
